@@ -1,0 +1,107 @@
+.utama {
+	width: 1020px;
+	margin: auto;
+	border: 1px solid #000001;
+	background-color: #fdf5e6;
+
+}
+.img {
+	width: 1020px;
+	height: 320px;
+}
+.kepala {
+}
+h2{
+	color: #bc8f8f;
+}
+.menu  {
+	padding: 10px;
+	background-color: #f08080;
+	color: black;
+	text-decoration: none;
+	top: 0px;
+	position: sticky;
+}
+.menu a {
+	padding: 10px;
+	background-color: #ffb6c1;
+	color: #778899;
+	text-decoration: none;
+}
+.menu a:hover {
+	background-color: #ffa07a ;
+
+}
+.menu {
+	margin-top: 2px;
+	margin-bottom: 20px;
+}
+.akun{
+	position: absolute;
+	top: 0px;
+	right: 80px;
+
+}
+.logout{
+	position: absolute;
+	top: 0px;
+	right: 10px;
+
+}
+
+
+.isi{
+	margin-left: 10px;
+	margin-bottom: 50px;
+
+}
+
+table {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 1px solid #baca;
+	border-collapse: collapse;
+	width: 1000px;
+}
+table th {
+	text-align: left;
+	width: 300px;
+	border: 1px solid #baca;
+	padding: 10px;
+	background-color: #bc8f8f;
+	color: #ffffff;
+}
+table td {
+	border: 1px solid #baca;
+	background-color: #ffc0cb;
+	padding:10px;
+}
+
+.edit {
+	background-color: #c71585;
+	color: #fff;
+}
+
+.tambah {
+	background-color: #cd5c5c;
+	color: #fff;
+}
+
+.ubah {
+	background-color: #dc143c;
+	color: #fff;
+}
+
+.footer {
+	padding: 20px;
+	text-align: right;
+	background-color: #f08080;
+	width: 980px;
+	bottom: 0px;
+	color: #800080;
+	position: sticky;
+}
+input[type="text"]{
+	width: 620PX;
+	height: 100%;
+}
